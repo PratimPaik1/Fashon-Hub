@@ -1,16 +1,50 @@
-# React + Vite
+#  Fashon-Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Fashion Web App Frontend** built with **React + Vite**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 About
 
-## React Compiler
+Fashon-Hub is a frontend project focused on clean UI, reusable components, and fast performance using Vite.  
+It can be easily extended into a full e-commerce platform.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Git & GitHub
+
+---
+
+## ✨ Features
+
+- Responsive UI
+- Component-based architecture
+- Fast development with Vite
+- Clean project structure
+
+
+## ⚙️ Setup & Run
+
+
+git clone https://github.com/PratimPaik1/Fashon-Hub.git
+cd Fashon-Hub
+npm install
+npm run dev
+Open: http://localhost:5173
+
+📦 Build
+npm run build
+
+
+👤 Author
+Pratim Paik
+GitHub: https://github.com/PratimPaik1
+
+⭐ If you like this project, give it a star!
+
