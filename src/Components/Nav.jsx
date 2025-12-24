@@ -20,7 +20,7 @@ const Nav = () => {
       <LeftNav />
 
       <div
-        className='text-2xl w-[25px] h-[25px] rounded-lg lg:hidden cursor-pointer active:scale-95'
+        className='text-2xl w-[25px] h-[25px] rounded-lg lg:hidden cursor-pointer active:scale-95 sm:hidden md:hidden'
         onClick={handelHambarg}
       >
         <IoMdMenu />
